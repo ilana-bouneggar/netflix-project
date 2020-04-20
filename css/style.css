@@ -1,0 +1,50 @@
+@import url(//db.onlinewebfonts.com/c/0d5f8cc3c1312e1f7c94b4ccf48733c0?family=Netflix+Sans+Icon);
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet);
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/block.css");
+@import url("components/animation.css");
+@import url("components/accordeon.css");
+@import url("components/footer.css");
+
+
+
+@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);
+
+body {
+	font-size:18px;
+	background-color: rgb(0,0,0);
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 26px;
+	font-weight: 3px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 10px;
+}
+
+h3 {
+	font-size: 19.2px;
+	font-weight: lighter;
+	margin-top: 20px;
+	margin-right: 500px auto;
+}
+
+h4 {
+	font-size: 16px;
+}
+
+p {
+	font-size: 14.4px;
+	font-weight: lighter;
+	color: #0071EB;
+	margin-top:0px;
+}
+

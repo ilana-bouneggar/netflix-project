@@ -1,0 +1,64 @@
+.block  {
+	position: relative;
+    border-bottom: 8px solid #222;
+    padding: 50px 5%;
+    margin-bottom: 0;
+    background: transparent;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 56px;
+
+}
+
+#block  {
+    position: relative;
+    padding: 50px 5%;
+    margin-bottom: 0;
+    background: transparent;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 56px;
+
+}
+
+
+
+.text h1 {
+	    line-height: 56px;
+
+}
+
+.text {
+	margin-left: 15px;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+}
+
+#text2 {
+	margin-right: 160px;
+}
+
+#text2 h1 {
+	line-height: 53px;
+	margin-bottom: 10px;
+}
+
+.textst h4 {
+	margin-bottom: 0px;
+}
+
+.textst p {
+    height: 0px;
+    padding-bottom: 30px;
+    margin-top: -15px;
+}
+
+.textst {
+	margin-left:15px;
+	border-spacing: 0px;
+
+}

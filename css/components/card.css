@@ -1,0 +1,52 @@
+
+.card {
+	display: flex;
+	justify-content: center;
+	background: transparent;
+	align-items: center;
+}
+
+.col {
+	display: flex;
+	justify-content: center;
+	background: transparent;
+	align-items: center;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 0px;
+	margin-left:50px;
+	margin-right: 50px;
+}
+
+.card3 {
+	display: flex;
+	align-items: center;
+}
+
+.card1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.dowloadcard {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 12px;
+	background-color: black;
+	border: 2px solid #222;
+	position: absolute;
+    left: 295px;
+    bottom: 90px;
+    padding: 8px 12px;
+}
+
+.emailcard {
+	align-items: center;
+	justify-content: space-around;
+	text-align: center;
+}
